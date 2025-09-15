@@ -1,6 +1,7 @@
 # 🍕 Pizza Hut Sales Analysis
 
-![pizza Background Banner (4)](pizzahut_banner.jpg)
+<img src="./pizzahut_banner.jpg" width="800" height="800"/>&nbsp;
+
 
 
 
@@ -10,7 +11,7 @@ This dashboard is designed to present sales insights for Pizza Hut to the region
 
 ## 🛠️ Tool Used
 
-
+<img src="./microsoft-excel.png" width="300" height="150"/>&nbsp;
 
 
 ## 📊 Results & Insights
