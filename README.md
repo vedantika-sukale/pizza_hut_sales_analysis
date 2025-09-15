@@ -38,7 +38,6 @@
 
 In my view, smaller pizza sizes and some flavors are underperforming, so they should either be promoted, discounted, or removed to improve inventory efficiency. I also noticed that large pizzas dominate sales, which makes sense as families and groups drive demand. From my perspective, merchandise and add-ons don’t contribute much, so offering them through bundles or special deals could boost sales and minimize waste.                                                                                                                                                                                               
 ## Dashboard :
-<img src="./## Dashboard :
 <img src="./Dashboard.png" width="3000" height="600"/>&nbsp;
 
 
