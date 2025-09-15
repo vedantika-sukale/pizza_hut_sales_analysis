@@ -1,6 +1,6 @@
 # 🍕 Pizza Hut Sales Analysis
 
-<img src="./pizzahut_banner.jpg" width="800" height="800"/>&nbsp;
+<img src="./pizzahut_banner.jpg" width="1000" height="800"/>&nbsp;
 
 
 
