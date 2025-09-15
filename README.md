@@ -1,4 +1,9 @@
 # 🍕 Pizza Hut Sales Analysis
+
+![pizza Background Banner (4)](pizzahut_banner.jpg)
+
+
+
 ## 📌 Overview
 
 This dashboard is designed to present sales insights for Pizza Hut to the regional manager. It highlights performance across product categories, pizza sizes, order timings, and customer preferences. The goal is to support business discussions and optimize operations, pricing strategies, and menu planning.
